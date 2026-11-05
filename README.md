@@ -4,9 +4,17 @@ A responsive React and TypeScript travel planner. Add a trip brief to get destin
 
 ## Mobile Screens
 
-| Welcome | Trip details | Recommendations |
-| --- | --- | --- |
-| ![Wayfarer Agent welcome screen on mobile](public/screenshots/welcome.png) | ![Wayfarer Agent trip details form on mobile](public/screenshots/trip-details.png) | ![Wayfarer Agent trip recommendations screen on mobile](public/screenshots/trip-recommendations.png) |
+### Welcome
+
+![Wayfarer Agent welcome screen on mobile](public/screenshots/welcome.png)
+
+### Trip Details
+
+![Wayfarer Agent trip details form on mobile](public/screenshots/trip-details.png)
+
+### Recommendations
+
+![Wayfarer Agent trip recommendations screen on mobile](public/screenshots/trip-recommendations.png)
 
 ## Agent Capabilities
 
