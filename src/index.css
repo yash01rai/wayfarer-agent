@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=DM+Serif+Display:ital@0;1&display=swap');
+
+:root{--ink:#0b3439;--muted:#748989;--line:#cbdcda;--aqua:#e8fafa;--mint:#43d2ac;--green-deep:#167763;--coral:#ed8e7c;--display:'DM Sans',sans-serif;--serif:'DM Serif Display',Georgia,serif;font-family:var(--display);color:var(--ink);background:#f7fbf9;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-optical-sizing:auto;font-weight:400}
+*{box-sizing:border-box}html{min-width:320px;min-height:100%;background:#f7fbf9}body{min-width:320px;min-height:100vh;margin:0;background-color:#f7fbf9;background-image:radial-gradient(rgba(11,52,57,.075) .65px,transparent .65px);background-size:16px 16px}button,input{font:inherit}button{color:inherit}::selection{color:var(--ink);background:#a4ead8}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important}}
